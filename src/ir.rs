@@ -1,3 +1,5 @@
+use core::num;
+
 use crate::opcode;
 
 #[derive(Debug, PartialEq)]
